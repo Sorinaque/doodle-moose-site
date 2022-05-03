@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0560548d5e8b2bD0677f34267a13909306d3db53",
+  "SCAN_LINK": "https://polygonscan.com/address/0x0560548d5e8b2bD0677f34267a13909306d3db53",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Doodle Moose",
+  "SYMBOL": "DMC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
